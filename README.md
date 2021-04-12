@@ -1,5 +1,5 @@
 # maze-generator-csharp
-Desktop application written in C#, that allow to visualize maze generation of various sizes, set by a user, and to find and display shortest path from left top corner (0,0) to bottom right corner (Form width, Form height) using different path algorithms (Dijkstra, A*, DFS, BFS).
+Desktop application written in C#, that allow to visualize maze generation of various sizes, set by a user, and to find and display shortest path from left top corner (0,0) to bottom right corner (Form width, Form height) using different path algorithms (Dijkstra, A*, DFS, BFS). Additionaly, the animation speed can be adjusted to suit user's needs, or even disabled at all (Which means only a fully-generated maze will be rendered to the user). 
 
 ## Table of contents
 * [General info](#general-info)
