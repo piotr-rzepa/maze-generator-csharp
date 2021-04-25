@@ -30,7 +30,7 @@ Project is created with:
 Package OptimizedPriorityQueue 4.2.0 by [BlueRaja](https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp)<br>
 
 ## Algorithm visualization (A* example)
-![ERROR: NOT FOUND](./Images/maze-generator.gif)
+<img src="./Images/maze-generator.gif" width="500" height="500" alt="ERROR: NOT FOUND">
 
 
 ## Setup 
